@@ -1,0 +1,68 @@
+
+
+a:active{
+    color: rgb(21, 177, 160);
+
+}
+a:any-link{
+    color: rgb(21, 185, 140);
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration: wavy underline;
+}
+
+#Redes {
+    
+    color: rgb(21, 177, 160);
+    
+    
+}
+
+#Nombre {
+    text-align: center;
+    color: rgb(61, 141, 157);
+    font-family: "Playfair Display", serif;
+
+}
+
+#Carrera {
+    text-align: center;
+    color: rgb(61, 141, 157);
+    font-family: "Playfair Display", serif;
+    
+}
+
+#MiHistoria {
+    text-decoration: wavy underline;
+    color: rgb(21, 185, 140);
+    font-family: "Playfair Display", serif;
+    
+
+}
+
+#MisConocimientos {
+    text-decoration: wavy underline;
+    color: rgb(21, 185, 140);
+    font-family: "Playfair Display", serif;
+
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    
+
+}
+
+
+img{
+    width: 300pt;  
+     height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    margin:auto;
+    display: block;
+
+}
